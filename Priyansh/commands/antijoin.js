@@ -1,7 +1,7 @@
 module.exports.config = {
     name: "antijoin",
     version: "1.0.0",
-    credits: "𝐏𝐫𝐢𝐲𝐚𝐧𝐬𝐡 𝐑𝐚𝐣𝐩𝐮𝐭",
+    credits: "꧁𓊈𒆜🅰🅻🅸 🅺🅷🅰🅽𒆜𓊉꧂",
     hasPermssion: 1,
     description: "Turn off antijoin",
     usages: "antijoin on/off",
