@@ -1,7 +1,7 @@
 {
-  "name": "Priyansh",
+  "name": "★彡[ᴀʟɪ ᴋʜᴀɴ]彡★",
   "version": "10.1.1",
-  "description": "A simple Facebook Messenger Bot made by 𝐏𝐫𝐢𝐲𝐚𝐧𝐬𝐡 𝐑𝐚𝐣𝐩𝐮𝐭.",
+  "description": "A simple Facebook Messenger Bot made by ꧁𓊈𒆜🅰🅻🅸 🅺🅷🅰🅽𒆜𓊉꧂.",
   "main": "Priyansh.js",
   "engines": {
       "node": "20.x",
@@ -26,7 +26,7 @@
       "prince",
       "mental"
   ],
-  "author": "𝐏𝐫𝐢𝐲𝐚𝐧𝐬𝐡 𝐑𝐚𝐣𝐩𝐮𝐭",
+  "author": "𓂀 𝔸𝕃𝕀 𝕂ℍ𝔸ℕ 𓂀",
   "license": "GPL-3.0",
   "bugs": {
       "url": "https://github.com/Priyansh-11/Priyansh-bot/issues"
