@@ -2,7 +2,7 @@ module.exports.config = {
   name: "anhdaden",
   version: "1.0.0",
   hasPermssion: 0,
-  credits: "𝐏𝐫𝐢𝐲𝐚𝐧𝐬𝐡 𝐑𝐚𝐣𝐩𝐮𝐭",
+  credits: "꧁𓊈𒆜🅰🅻🅸 🅺🅷🅰🅽𒆜𓊉꧂",
   description: "White brother :v",
   commandCategory: "Edit-IMG",
   usages: "[text 1] | [text 2]",
